@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "Homework1.html",
+    "href": "Homework1.html",
+    "title": "title about data science",
+    "section": "",
+    "text": "Using data to help make informed decisions and derive insights."
+  },
+  {
+    "objectID": "Homework1.html#what-do-you-think-being-a-data-scientist-is-about",
+    "href": "Homework1.html#what-do-you-think-being-a-data-scientist-is-about",
+    "title": "title about data science",
+    "section": "",
+    "text": "Using data to help make informed decisions and derive insights."
+  },
+  {
+    "objectID": "Homework1.html#what-differencessimilarities-do-you-see-between-data-scientists-and-statisticians",
+    "href": "Homework1.html#what-differencessimilarities-do-you-see-between-data-scientists-and-statisticians",
+    "title": "title about data science",
+    "section": "What differences/similarities do you see between data scientists and statisticians?",
+    "text": "What differences/similarities do you see between data scientists and statisticians?\nOther than salary and title? Officially, a data scientist combines computer science with statistics. But statisticians also program nowadays. The type of problems they work on could also be different. But in the end both are very similar with many overlapping skills."
+  },
+  {
+    "objectID": "Homework1.html#how-do-you-view-yourself-in-relation-to-these-two-areas",
+    "href": "Homework1.html#how-do-you-view-yourself-in-relation-to-these-two-areas",
+    "title": "title about data science",
+    "section": "How do you view yourself in relation to these two areas?",
+    "text": "How do you view yourself in relation to these two areas?\nStill a work in progress. That’s what school is for. Currently working on the follow: (markdown list) 1. Learning more SQL\n\nLearning Python\nMore stat knowledge.\n\nCode Chunk of y. Determining class, type, and structure of y.\n\ny &lt;- density(iris$Petal.Width)\nclass(y)\n\n[1] \"density\"\n\ntypeof(y)\n\n[1] \"list\"\n\nstr(y)\n\nList of 7\n $ x        : num [1:512] -0.656 -0.648 -0.64 -0.633 -0.625 ...\n $ y        : num [1:512] 0.00163 0.0018 0.00199 0.00219 0.00241 ...\n $ bw       : num 0.252\n $ n        : int 150\n $ call     : language density.default(x = iris$Petal.Width)\n $ data.name: chr \"iris$Petal.Width\"\n $ has.na   : logi FALSE\n - attr(*, \"class\")= chr \"density\"\n\n\nPlot of Y"
+  }
+]
